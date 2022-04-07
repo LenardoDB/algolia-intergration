@@ -15,3 +15,8 @@ For furter search intergration visit [Algolia](https://www.algolia.com/doc/api-r
 
 ## Requirements
 * ACF Pro plugin needs to be activated in order for the plugin to function correctly.
+
+## Packages used
+* [algolia/algoliasearch-client-php](https://github.com/algolia/algoliasearch-client-php)
+* [StoutLogic/acf-builder](https://github.com/StoutLogic/acf-builder)
+
