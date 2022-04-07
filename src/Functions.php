@@ -1,8 +1,8 @@
 <?php
 
-namespace BlackDesk\AlgoliaIntergration;
+namespace LenardoDB\AlgoliaIntergration;
 
-use BlackDesk\AlgoliaIntergration\AdminFields;
+use LenardoDB\AlgoliaIntergration\AdminFields;
 
 class Functions
 {

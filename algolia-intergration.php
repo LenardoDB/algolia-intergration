@@ -1,6 +1,6 @@
 <?php
 
-use BlackDesk\AlgoliaIntergration\Functions;
+use LenardoDB\AlgoliaIntergration\Functions;
 
 /**
  * Plugin Name: Algolia Intergration
