@@ -1,0 +1,12 @@
+{
+    "require": {
+        "algolia/algoliasearch-client-php": "^3.2",
+        "yahnis-elsts/plugin-update-checker": "^4.10",
+        "stoutlogic/acf-builder": "^1.11"
+    }, 
+    "autoload": {
+        "psr-4": {
+          "BlackDesk\\AlgoliaIntergration\\": "src/"
+        }
+    }
+}
