@@ -1,6 +1,6 @@
 <?php
 
-namespace BlackDesk\AlgoliaIntergration;
+namespace LenardoDB\AlgoliaIntergration;
 
 use Algolia\AlgoliaSearch\SearchClient;
 

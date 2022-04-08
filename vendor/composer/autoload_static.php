@@ -23,13 +23,13 @@ class ComposerStaticInitd55b2394d6ba425d64009b9dee54d8ed
             'Psr\\Log\\' => 8,
             'Psr\\Http\\Message\\' => 17,
         ),
+        'L' => 
+        array (
+            'LenardoDB\\AlgoliaIntergration\\' => 30,
+        ),
         'D' => 
         array (
             'Doctrine\\Inflector\\' => 19,
-        ),
-        'B' => 
-        array (
-            'BlackDesk\\AlgoliaIntergration\\' => 30,
         ),
         'A' => 
         array (
@@ -54,13 +54,13 @@ class ComposerStaticInitd55b2394d6ba425d64009b9dee54d8ed
         array (
             0 => __DIR__ . '/..' . '/psr/http-message/src',
         ),
+        'LenardoDB\\AlgoliaIntergration\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/src',
+        ),
         'Doctrine\\Inflector\\' => 
         array (
             0 => __DIR__ . '/..' . '/doctrine/inflector/lib/Doctrine/Inflector',
-        ),
-        'BlackDesk\\AlgoliaIntergration\\' => 
-        array (
-            0 => __DIR__ . '/../..' . '/src',
         ),
         'Algolia\\AlgoliaSearch\\' => 
         array (

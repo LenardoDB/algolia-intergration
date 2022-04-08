@@ -1,9 +1,9 @@
 <?php
 
-namespace BlackDesk\AlgoliaIntergration;
+namespace LenardoDB\AlgoliaIntergration;
 
 use StoutLogic\AcfBuilder\FieldsBuilder;
-use BlackDesk\AlgoliaIntergration\Algolia;
+use LenardoDB\AlgoliaIntergration\Algolia;
 
 class AdminFields
 {

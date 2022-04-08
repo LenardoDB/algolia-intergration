@@ -1,8 +1,8 @@
 <?php
 
-namespace BlackDesk\AlgoliaIntergration;
+namespace LenardoDB\AlgoliaIntergration;
 
-use BlackDesk\AlgoliaIntergration\Algolia;
+use LenardoDB\AlgoliaIntergration\Algolia;
 
 class Post
 {

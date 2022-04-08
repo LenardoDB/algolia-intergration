@@ -6,7 +6,7 @@
     }, 
     "autoload": {
         "psr-4": {
-          "BlackDesk\\AlgoliaIntergration\\": "src/"
+          "LenardoDB\\AlgoliaIntergration\\": "src/"
         }
     }
 }
